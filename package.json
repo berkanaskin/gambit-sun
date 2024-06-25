@@ -1,0 +1,24 @@
+{
+  "name": "gambit-sun",
+  "version": "1.0.0",
+  "description": "Gambit-Sun is an open-source project aimed at enhancing the management and interaction with decentralized applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkanaskin/gambit-sun.git"
+  },
+  "keywords": [
+    "gambit-sun",
+    "decentralized",
+    "management"
+  ],
+  "author": "Tahsin Berkan Aşkın",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berkanaskin/gambit-sun/issues"
+  },
+  "homepage": "https://github.com/berkanaskin/gambit-sun#readme"
+}
