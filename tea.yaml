@@ -1,0 +1,5 @@
+codeowners:
+  - berkanaskin
+quorum:
+  - minimum: 2
+version: 1.0
